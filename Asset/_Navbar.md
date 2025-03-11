@@ -28,6 +28,7 @@
   - [WND Reference](GUI/wnd_reference.md)
   - [Texturing](GUI/texturing.md)
   - [WND Controls](GUI/WND_Controls)
+    - [Default- User](GUI/WND_Controls/user.md)
     - [Checkbox](GUI/WND_Controls/checkbox.md)
     - [Combobox](GUI/WND_Controls/combobox.md)
     - [Entry Field](GUI/WND_Controls/entryfiled.md)
@@ -37,7 +38,6 @@
     - [Scroll Listbox](GUI/WND_Controls/scrollistbox.md)
     - [Slider](GUI/WND_Controls/slider.md)
     - [Statictext](GUI/WND_Controls/statictext.md)
-    - [User](GUI/WND_Controls/user.md)
   - GUI Editor
 
 ## Tools
