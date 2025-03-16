@@ -1,5 +1,15 @@
 <!-- markdownlint-disable -->
-# Source Code
+
+## [Home](Home.md)
+
+- [How to Get Involved](how_to_involved.md)
+- [How to Contribution](contribution.md)
+- [License](license.md)
+- [Credits](credits.md)
+- [Changelog](changelog.md)
+- [FAQ](faq.md)
+- [Known Issues](known_issues.md)
+- [Contact & Community](contact_community.md)
 
 ## Builds
 
@@ -8,6 +18,7 @@
   - [Using pure Visual Studio 6 (x86) (Windows)](Builds/build_with_ea_msvc6.md)
   - [Using Cmake & Visual Studio 6 (x86) (Windows)](Builds/build_with_msvc6.md)
     - [CLion & VC6 Toolchain](Builds/build_with_clion_vc6_toolchain.md)
+    - [Docker & VC6](Builds/build_with_msvc6_on_docker.md)
 
 - **Visual Studio 2022 Guides**:
   - [Using Cmake (x86) (Windows)](Builds/build_with_msvc22.md)
@@ -34,7 +45,6 @@
 ## Tools
 
 - [Command Line Arguments](Tools/switchers_arguments.md)
-- [NVASM](Tools/NVASM)
 - [SafeDiskLauncher](Tools/SafeDiskLauncher)
 - [CRCDiff](Tools/CRCDiff)
 <!-- markdownlint-restore -->
