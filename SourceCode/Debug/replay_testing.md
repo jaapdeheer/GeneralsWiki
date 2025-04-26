@@ -80,7 +80,7 @@ They don't need to be on the same team. Once the match is completed, save the re
 It is recommended to use version **1.04** to create your own skirmish game,
 although the latest version **1.05** is backwards compatible.
 
-If you'd prefer not to play a skirmish game, you can download [this file](files/Zerohour-skirmish.zip),
+If you'd prefer not to play a skirmish game, you can download [this file](files/Zerohour-skirmish.zip?raw=true),
 which includes a skirmish match played on a default _Zero Hour_ map .
 The expected results are provided in the download package.
 
