@@ -60,7 +60,7 @@ The golden replay is a multiplayer match made in _Zero Hour v1.04_ in which syst
 abilities have been used. It consists of two playthroughs to cover all the general powers. Both replays have
 been played on the customized _Tansoooo_ map.
 
-[Download both replays and the map](files/Golden-replays.zip)
+[Download both replays and the map](files/Golden-replays.zip?raw=true)
 
 For a successful test, the expected results on the score screen are:
 
